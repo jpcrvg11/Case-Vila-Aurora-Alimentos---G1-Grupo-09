@@ -1,0 +1,9 @@
+﻿SKU,Produto,Modelo,MAE,RMSE,MAPE_%
+F1-001,Leite Integral 1L,Naive,238.33,288.76,25.1
+F1-001,Leite Integral 1L,SES,224.81,304.26,20.02
+F1-001,Leite Integral 1L,Holt,232.22,329.95,19.83
+F1-001,Leite Integral 1L,Holt-Winters,200.59,264.5,18.21
+F2-003,Vinho Reserva 750ml,Naive,29.25,40.0,58.45
+F2-003,Vinho Reserva 750ml,SES,28.02,38.81,60.08
+F2-003,Vinho Reserva 750ml,Holt,27.45,38.34,60.7
+F2-003,Vinho Reserva 750ml,Holt-Winters,28.02,38.81,60.08

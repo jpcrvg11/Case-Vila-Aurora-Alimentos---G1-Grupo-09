@@ -1,7 +1,7 @@
-pandas
-numpy
-matplotlib
-openpyxl
-statsmodels
-scipy
-python-docx
+pandas>=2.0
+numpy>=1.24
+matplotlib>=3.7
+openpyxl>=3.1
+statsmodels>=0.14
+scipy>=1.11
+python-docx>=1.1

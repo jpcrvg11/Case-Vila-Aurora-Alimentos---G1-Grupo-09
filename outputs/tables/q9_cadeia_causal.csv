@@ -1,0 +1,3 @@
+﻿familia,modelo,RMSE_un_sem,LT_dias,z_nivel_servico,SS_recomendado_un,rupturas_teste_n,pct_semanas_ruptura,un_faltantes,fill_rate_simulado_%,venda_perdida_teste_R$,custo_ruptura_teste_R$,n_viagens_teste,custo_viagens_teste_R$,co2_teste_kg,descarte_teste_R$
+F1,Holt-Winters,816.4,2,1.881,821.0,4,16.7,3805.0,95.0,43666.0,39614.0,4,5000,168,7999.0
+F2,SES,179.1,14,1.282,325.0,1,4.2,251.0,97.0,15312.0,16632.0,0,0,0,0.0

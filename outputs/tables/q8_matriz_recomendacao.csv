@@ -1,0 +1,6 @@
+﻿familia,nome,perfil_pratico,modelo_recomendado,RMSE_teste,MAPE_teste_%,viabilidade,freq_recomendada
+F1,F1 - Pereciveis,Smooth puro,Naive,839.3,18.0,Excel,semanal
+F2,F2 - Premium,Erratic/Lumpy,MA(4),183.3,59.7,Excel,quinzenal
+F3,F3 - Mercearia,Smooth puro,Winters,502.7,9.2,Python/R,quinzenal
+F4,F4 - Congelados,Smooth puro,Naive,414.1,26.4,Excel,semanal
+F5,F5 - Bebidas,Erratic/Lumpy,SES,267.5,82.4,Excel (com add-in) / Python,quinzenal
