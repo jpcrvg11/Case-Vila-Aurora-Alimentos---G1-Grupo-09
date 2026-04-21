@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Ambientes virtuais
+.venv/
+venv/
+env/
+
+# Variáveis de ambiente
+.env
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Claude Code
+.claude/
