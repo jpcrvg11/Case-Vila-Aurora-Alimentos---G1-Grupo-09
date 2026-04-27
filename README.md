@@ -2,7 +2,7 @@
 
 ## Contexto
 
-Este repositório reúne a análise quantitativa desenvolvida pelo Grupo 09 para o caso **Vila Aurora Alimentos**, no âmbito da disciplina **ENG4550 — Projeto Integrado 5** do curso de Engenharia Industrial da **PUC-Rio** (2026.1). O trabalho cobre as entregas parciais **Q1 a Q9**, abrangendo diagnóstico de demanda, benchmarking de SKUs, classificação ABC/XYZ, modelagem de previsão e cadeia causal de indicadores.
+Este repositório reúne a análise quantitativa desenvolvida pelo Grupo 09 para o caso **Vila Aurora Alimentos**, no âmbito da disciplina **ENG4550 — Projeto Integrado 5** da **PUC-Rio** (2026.1). O trabalho cobre as entregas parciais **Q1 a Q9**, abrangendo diagnóstico de demanda, benchmarking de SKUs, classificação ABC/XYZ, modelagem de previsão e cadeia causal de indicadores.
 
 ---
 
@@ -11,11 +11,11 @@ Este repositório reúne a análise quantitativa desenvolvida pelo Grupo 09 para
 ```
 .
 ├── data/
-│   └── raw/          Dados originais do case (read-only — não modificar)
+│   └── raw/          Dados originais do case 
 ├── src/              Scripts Python da análise
 ├── outputs/
-│   ├── figures/      Gráficos gerados (.png) — versionados
-│   └── tables/       Tabelas de resultados e Anexo F preenchido — versionados
+│   ├── figures/      Gráficos gerados (.png) 
+│   └── tables/       Tabelas de resultados e Anexo F preenchido 
 ├── reports/          Relatórios .docx
 ├── slides/           Apresentação final
 ├── requirements.txt  Dependências Python
@@ -42,7 +42,7 @@ source .venv/bin/activate
 pip install -r requirements.txt
 ```
 
-### 3. Executar os scripts (ordem recomendada)
+### 3. Executar os scripts 
 
 ```bash
 python src/q4_benchmarking_sku.py
@@ -66,12 +66,12 @@ Os arquivos gerados serão salvos em `outputs/figures/` e `outputs/tables/`.
 
 ## Autores
 
-| Nome | Matrícula |
-|------|-----------|
-| João Pedro Leite de Almeida | [adicionar] |
-| Lucas Agostinho | [adicionar] |
-| Gabriel Stadler | [adicionar] |
-| Felipe Sarmento | [adicionar] |
+| Nome |
+|------|
+| João Pedro Leite de Almeida |
+| Lucas Agostinho |
+| Gabriel Stadler |
+| Felipe Sarmento |
 
 **Disciplina:** ENG4550 — Projeto Integrado 5
 **Professor:** Rodrigo Caiado
